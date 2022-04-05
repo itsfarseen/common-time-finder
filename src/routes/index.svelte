@@ -1,5 +1,5 @@
 <script>
-	import Item from "./item.svelte";
+	import Item from "../item.svelte";
 	let items = [
 		{
 			name: "Bolt",
