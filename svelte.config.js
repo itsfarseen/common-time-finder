@@ -4,7 +4,7 @@ import adapter from '@sveltejs/adapter-static';
 const config = {
 	kit: {
 		adapter: adapter(),
-		paths: {assets: "/common-time-finder",},
+		paths: {assets: "https://itsfarseen.github.io/common-time-finder",},
 		prerender: {
 			default: true,
 		},
